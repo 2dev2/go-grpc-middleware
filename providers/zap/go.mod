@@ -1,4 +1,4 @@
-module github.com/grpc-ecosystem/go-grpc-middleware/providers/zap/v2
+module github.com/grpc-ecosystem/go-grpc-middleware/v2/providers/zap
 
 go 1.14
 
