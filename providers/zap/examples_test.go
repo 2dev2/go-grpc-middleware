@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	grpczap "github.com/grpc-ecosystem/go-grpc-middleware/providers/zap/v2"
+	grpczap "github.com/grpc-ecosystem/go-grpc-middleware/v2/providers/zap"
 	"go.uber.org/zap"
 	"google.golang.org/grpc"
 
